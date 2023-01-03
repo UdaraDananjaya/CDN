@@ -30,6 +30,9 @@
 ##### Load any GitHub release, commit, or branch:
 
 ```
+<!-- Load GitHub release -->
+<script src="https://cdn.jsdelivr.net/gh/user/repo@version/file"></script>
+
 /gh/user/repo@version/file
 ```
 
@@ -38,11 +41,4 @@
 ```
 /gh/jquery/jquery@3.1.0/dist/jquery.min.js
 /gh/jquery/jquery@32b00373b3f42e5cdcb709df53f3b08b7184a944/dist/jquery.min.js
-```
-
-Load any GitHub release, commit, or branch:
-
-```
-<!-- Load GitHub release -->
-<script src="https://cdn.jsdelivr.net/gh/user/repo@version/file"></script>
 ```
