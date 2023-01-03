@@ -39,7 +39,7 @@
 ```
 ###### Example:
 ```
-<!-- CSS only -->
+<!-- CSS -->
 <link href="https://cdn.jsdelivr.net/gh/user/repo@version/file" rel="stylesheet">
 
 <!-- JavaScript -->
