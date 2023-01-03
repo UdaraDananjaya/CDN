@@ -30,6 +30,8 @@
 ```
 <!-- Load GitHub release -->
 <script src="https://cdn.jsdelivr.net/gh/user/repo@version/file"></script>
+<link href="https://cdn.jsdelivr.net/gh/user/repo@version/file" rel="stylesheet">
+
 ```
 
 ##### Load any GitHub release, commit, or branch:
